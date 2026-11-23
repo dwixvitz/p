@@ -104,11 +104,11 @@
     {
       "category": "Frontend & Web",
       "items": [
-        "HTML5 Semantik",
-        "CSS3 / Liquid Glass UI",
-        "JavaScript (ES6+)",
-        "Tailwind CSS",
-        "Responsive Layout"
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "C++",
+        "Python"
       ]
     },
     {
@@ -120,59 +120,7 @@
         "Git & GitHub"
       ]
     },
-    {
-      "category": "UI/UX Design",
-      "items": [
-        "Design Systems",
-        "Wireframing",
-        "Prototyping",
-        "Accessibility (WCAG)",
-        "Typography"
-      ]
-    }
   ],
   "projects": [
-    {
-      "id": "proj-1",
-      "title": "NusaPay Merchant Dashboard",
-      "category": "Fintech & Design System",
-      "year": "2025",
-      "image": "assets/images/project-1.svg",
-      "summary": "Perancangan ulang antarmuka analitik transaksi real-time dan sistem rekonsiliasi keuangan untuk lebih dari 12.000 pelaku UMKM.",
-      "tags": [
-        "UI/UX",
-        "Design System",
-        "Frontend"
-      ],
-      "link": "#"
-    },
-    {
-      "id": "proj-2",
-      "title": "Arsip Arsitektur Tropis",
-      "category": "Editorial & Katalog Digital",
-      "year": "2024",
-      "image": "assets/images/project-2.svg",
-      "summary": "Platform dokumentasi karya arsitektur kontemporer Indonesia dengan tata letak editorial bersih, pencarian cepat, dan mode baca.",
-      "tags": [
-        "Editorial Web",
-        "HTML/CSS",
-        "JavaScript"
-      ],
-      "link": "#"
-    },
-    {
-      "id": "proj-3",
-      "title": "Sora Workspace Planner",
-      "category": "Produktivitas & Web App",
-      "year": "2024",
-      "image": "assets/images/project-3.svg",
-      "summary": "Aplikasi manajemen jadwal tim jarak jauh dengan antarmuka minimalis, fokus pada kejelasan hierarki informasi dan kenyamanan mata.",
-      "tags": [
-        "Web App",
-        "UX Research",
-        "Frontend"
-      ],
-      "link": "#"
-    }
   ]
 }
