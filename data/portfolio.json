@@ -1,46 +1,46 @@
 {
   "profile": {
-    "name": "Dwi Prasetyo",
+    "name": "Dwi Prasetyo Bagaskoro",
     "role": "Product Designer & Web Developer",
     "tagline": "Merancang pengalaman digital yang tenang, presisi, dan mudah digunakan.",
     "bio": "Saya membangun antarmuka web modern yang memadukan keterbacaan editorial, struktur kode yang bersih, serta interaksi yang intuitif. Berdomisili di Bandung, terbuka untuk kolaborasi proyek digital dan pengembangan produk.",
     "availability": "Tersedia untuk Proyek Baru",
     "avatar": "assets/images/avatar.svg",
-    "email": "halo@dwiprasetyo.id",
-    "phone": "+62 812-3456-7890",
-    "location": "Bandung, Jawa Barat, Indonesia",
-    "website": "https://dwiprasetyo.id",
+    "email": "dwixvitz@gmail.com",
+    "phone": "+62 851-8823-8813",
+    "location": "Cimahi, Jawa Barat, Indonesia",
+    "website": "",
     "socials": [
       {
         "label": "GitHub",
-        "url": "https://github.com/"
+        "url": "https://github.com/dwixvitz"
       },
       {
-        "label": "LinkedIn",
-        "url": "https://linkedin.com/"
+        "label": "",
+        "url": ""
       },
       {
-        "label": "Dribbble",
-        "url": "https://dribbble.com/"
+        "label": "",
+        "url": ""
       },
       {
-        "label": "Instagram",
-        "url": "https://instagram.com/"
+        "label": "",
+        "url": ""
       }
     ]
   },
   "biodata": [
     {
       "label": "Nama Lengkap",
-      "value": "Dwi Prasetyo"
+      "value": "Dwi Prasetyo Bagaskoro"
     },
     {
       "label": "Tempat, Tanggal Lahir",
-      "value": "Bandung, 14 Agustus 1998"
+      "value": "Cimahi, 11 Februari 2011"
     },
     {
       "label": "Alamat Domisili",
-      "value": "Jl. Dago Asri No. 24, Coblong, Kota Bandung, Jawa Barat 40135"
+      "value": "Jl. Mukodar Selatan. No 23, Kota Cimahi, Jawa Barat 40534"
     },
     {
       "label": "Kewarganegaraan",
@@ -56,46 +56,46 @@
     },
     {
       "label": "Email Utama",
-      "value": "halo@dwiprasetyo.id"
+      "value": "dwixvitz@gmail.com"
     },
     {
       "label": "Telepon / WhatsApp",
-      "value": "+62 812-3456-7890"
+      "value": "+62 851-8823-8813"
     }
   ],
   "education": [
     {
-      "period": "2016 — 2020",
-      "institution": "Institut Teknologi Bandung (ITB)",
-      "degree": "S1 Teknik Informatika",
+      "period": "2026 - 2029",
+      "institution": "SMK Angkasa Husein Sastranegara Bandung",
+      "degree": "Jurusan PPLG",
       "gpa": "IPK 3.78 / 4.00",
       "description": "Fokus pada Rekayasa Perangkat Lunak, Interaksi Manusia dan Komputer (HCI), serta perancangan sistem web."
     },
     {
-      "period": "2013 — 2016",
-      "institution": "SMA Negeri 3 Bandung",
-      "degree": "Jurusan Ilmu Pengetahuan Alam (IPA)",
-      "gpa": "Lulusan Terbaik Bidang Teknologi Informasi",
-      "description": "Aktif dalam klub pemrograman dan desain publikasi sekolah."
+      "period": "2023 — 2026",
+      "institution": "SMP Negeri 4 Cimahi",
+      "degree": "",
+      "gpa": "",
+      "description": "Aktif dalam klub pemrograman."
     },
     {
-      "period": "2022",
-      "institution": "Google Career Certificates",
-      "degree": "UX Design Professional Certificate",
-      "gpa": "Sertifikasi Terverifikasi",
-      "description": "Riset pengguna, wireframing, prototyping interaktif, dan pengujian kegunaan (usability testing)."
+      "period": "2016 - 2023",
+      "institution": "SDN Melong Mandiri 2 Cimahi",
+      "degree": "",
+      "gpa": "",
+      "description": ""
     }
   ],
   "experience": [
     {
-      "period": "2023 — Sekarang",
-      "role": "Senior Frontend & UI Engineer",
-      "company": "Studio Digital Nusantara",
-      "summary": "Memimpin pengembangan design system, arsitektur frontend, serta optimasi performa dan aksesibilitas aplikasi web klien."
+      "period": "2026 — Sekarang",
+      "role": "Memperdalam Ilmu Digital dan Informatika.",
+      "company": "",
+      "summary": ""
     },
     {
-      "period": "2020 — 2023",
-      "role": "UI/UX Designer & Web Developer",
+      "period": "2023 — 2026",
+      "role": "",
       "company": "Karsa Kreatif Teknologi",
       "summary": "Merancang dan membangun antarmuka dashboard SaaS, portal korporat, dan platform e-commerce responsif."
     }
