@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E6ECE8"/>
+      <stop offset="100%" stop-color="#C8D6CE"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3D5A4C"/>
+      <stop offset="100%" stop-color="#273B31"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="48" fill="url(#bgGrad)"/>
+  <circle cx="310" cy="95" r="70" fill="#FFFFFF" fill-opacity="0.35"/>
+  <circle cx="90" cy="330" r="95" fill="#3D5A4C" fill-opacity="0.1"/>
+  <circle cx="200" cy="155" r="56" fill="url(#accentGrad)"/>
+  <path d="M104 345 C104 275, 296 275, 296 345 Z" fill="url(#accentGrad)"/>
+  <text x="200" y="378" font-family="Georgia, serif" font-size="15" fill="#3D5A4C" text-anchor="middle" letter-spacing="3" opacity="0.75">DWI PRASETYO</text>
+</svg>

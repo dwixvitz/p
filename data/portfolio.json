@@ -1,0 +1,178 @@
+{
+  "profile": {
+    "name": "Dwi Prasetyo",
+    "role": "Product Designer & Web Developer",
+    "tagline": "Merancang pengalaman digital yang tenang, presisi, dan mudah digunakan.",
+    "bio": "Saya membangun antarmuka web modern yang memadukan keterbacaan editorial, struktur kode yang bersih, serta interaksi yang intuitif. Berdomisili di Bandung, terbuka untuk kolaborasi proyek digital dan pengembangan produk.",
+    "availability": "Tersedia untuk Proyek Baru",
+    "avatar": "assets/images/avatar.svg",
+    "email": "halo@dwiprasetyo.id",
+    "phone": "+62 812-3456-7890",
+    "location": "Bandung, Jawa Barat, Indonesia",
+    "website": "https://dwiprasetyo.id",
+    "socials": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/"
+      },
+      {
+        "label": "Dribbble",
+        "url": "https://dribbble.com/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/"
+      }
+    ]
+  },
+  "biodata": [
+    {
+      "label": "Nama Lengkap",
+      "value": "Dwi Prasetyo"
+    },
+    {
+      "label": "Tempat, Tanggal Lahir",
+      "value": "Bandung, 14 Agustus 1998"
+    },
+    {
+      "label": "Alamat Domisili",
+      "value": "Jl. Dago Asri No. 24, Coblong, Kota Bandung, Jawa Barat 40135"
+    },
+    {
+      "label": "Kewarganegaraan",
+      "value": "Indonesia"
+    },
+    {
+      "label": "Status",
+      "value": "Belum Menikah"
+    },
+    {
+      "label": "Bahasa",
+      "value": "Bahasa Indonesia (Aktif), English (Profesional)"
+    },
+    {
+      "label": "Email Utama",
+      "value": "halo@dwiprasetyo.id"
+    },
+    {
+      "label": "Telepon / WhatsApp",
+      "value": "+62 812-3456-7890"
+    }
+  ],
+  "education": [
+    {
+      "period": "2016 — 2020",
+      "institution": "Institut Teknologi Bandung (ITB)",
+      "degree": "S1 Teknik Informatika",
+      "gpa": "IPK 3.78 / 4.00",
+      "description": "Fokus pada Rekayasa Perangkat Lunak, Interaksi Manusia dan Komputer (HCI), serta perancangan sistem web."
+    },
+    {
+      "period": "2013 — 2016",
+      "institution": "SMA Negeri 3 Bandung",
+      "degree": "Jurusan Ilmu Pengetahuan Alam (IPA)",
+      "gpa": "Lulusan Terbaik Bidang Teknologi Informasi",
+      "description": "Aktif dalam klub pemrograman dan desain publikasi sekolah."
+    },
+    {
+      "period": "2022",
+      "institution": "Google Career Certificates",
+      "degree": "UX Design Professional Certificate",
+      "gpa": "Sertifikasi Terverifikasi",
+      "description": "Riset pengguna, wireframing, prototyping interaktif, dan pengujian kegunaan (usability testing)."
+    }
+  ],
+  "experience": [
+    {
+      "period": "2023 — Sekarang",
+      "role": "Senior Frontend & UI Engineer",
+      "company": "Studio Digital Nusantara",
+      "summary": "Memimpin pengembangan design system, arsitektur frontend, serta optimasi performa dan aksesibilitas aplikasi web klien."
+    },
+    {
+      "period": "2020 — 2023",
+      "role": "UI/UX Designer & Web Developer",
+      "company": "Karsa Kreatif Teknologi",
+      "summary": "Merancang dan membangun antarmuka dashboard SaaS, portal korporat, dan platform e-commerce responsif."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend & Web",
+      "items": [
+        "HTML5 Semantik",
+        "CSS3 / Liquid Glass UI",
+        "JavaScript (ES6+)",
+        "Tailwind CSS",
+        "Responsive Layout"
+      ]
+    },
+    {
+      "category": "Backend & Tools",
+      "items": [
+        "Python (Flask / FastAPI)",
+        "REST API",
+        "JSON Data Architecture",
+        "Git & GitHub"
+      ]
+    },
+    {
+      "category": "UI/UX Design",
+      "items": [
+        "Design Systems",
+        "Wireframing",
+        "Prototyping",
+        "Accessibility (WCAG)",
+        "Typography"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "NusaPay Merchant Dashboard",
+      "category": "Fintech & Design System",
+      "year": "2025",
+      "image": "assets/images/project-1.svg",
+      "summary": "Perancangan ulang antarmuka analitik transaksi real-time dan sistem rekonsiliasi keuangan untuk lebih dari 12.000 pelaku UMKM.",
+      "tags": [
+        "UI/UX",
+        "Design System",
+        "Frontend"
+      ],
+      "link": "#"
+    },
+    {
+      "id": "proj-2",
+      "title": "Arsip Arsitektur Tropis",
+      "category": "Editorial & Katalog Digital",
+      "year": "2024",
+      "image": "assets/images/project-2.svg",
+      "summary": "Platform dokumentasi karya arsitektur kontemporer Indonesia dengan tata letak editorial bersih, pencarian cepat, dan mode baca.",
+      "tags": [
+        "Editorial Web",
+        "HTML/CSS",
+        "JavaScript"
+      ],
+      "link": "#"
+    },
+    {
+      "id": "proj-3",
+      "title": "Sora Workspace Planner",
+      "category": "Produktivitas & Web App",
+      "year": "2024",
+      "image": "assets/images/project-3.svg",
+      "summary": "Aplikasi manajemen jadwal tim jarak jauh dengan antarmuka minimalis, fokus pada kejelasan hierarki informasi dan kenyamanan mata.",
+      "tags": [
+        "Web App",
+        "UX Research",
+        "Frontend"
+      ],
+      "link": "#"
+    }
+  ]
+}
